@@ -3,4 +3,4 @@
 
 ## Reporting a Vulnerability
 
-Send (Write) vulnerabilities to yildirimteoman10@gmail.com
+Report (Write) vulnerabilities,errors,bugs etc. to yildirimteoman10@gmail.com
