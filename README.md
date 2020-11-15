@@ -9,7 +9,7 @@ Usage:
 1.First copy link of page.
 
 2.Then write:
-git clone {link of page}   Note: i think "git clone" doesnt works in powershell. But it works in CMD or Git Bash %100
+git clone {link of page}   Note: i think "git clone" doesnt work in powershell. But it works in CMD or Git Bash %100
 
 3.Then go to file or folder and run it!!
 
