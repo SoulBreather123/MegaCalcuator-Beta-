@@ -4,3 +4,11 @@ This is beta version of MegaCalcuator. This is my first python project!
 But dont see MegaCalcuator as a simple calcuator. After few weeks or months it will be very responsive program.
 I will update MegaCalcuator slowly. If i be very fast, i will have many problems.
 
+Usage:
+
+First copy link of page.
+Then write:
+git clone {link of page}   Note: i think "git clone" doesnt works in powershell. But it works in CMD or Git Bash %100
+Then go to file or folder and run it!!
+
+Enjoy!!!
