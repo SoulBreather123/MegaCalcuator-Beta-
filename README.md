@@ -6,9 +6,11 @@ I will update MegaCalcuator slowly. If i be very fast, i will have many problems
 
 Usage:
 
-First copy link of page.
-Then write:
+1.First copy link of page.
+
+2.Then write:
 git clone {link of page}   Note: i think "git clone" doesnt works in powershell. But it works in CMD or Git Bash %100
-Then go to file or folder and run it!!
+
+3.Then go to file or folder and run it!!
 
 Enjoy!!!
