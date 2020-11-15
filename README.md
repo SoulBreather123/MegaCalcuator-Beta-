@@ -30,3 +30,5 @@ Release Notes Beta 1.2
 -Added exiting 
 
 -Some Bugs and Errors fixed
+
+-Added writing even and odd numbers
