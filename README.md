@@ -16,6 +16,7 @@ git clone {link of page}   Note: i think "git clone" doesnt work in powershell. 
 Enjoy!!!
 
 Note:
+
 After Beta 1.2 Update i will not update MegaCalcuator. After few days,weeks etc. I will come with MegaProgram big update!!!
 
 
