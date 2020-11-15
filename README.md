@@ -14,3 +14,11 @@ git clone {link of page}   Note: i think "git clone" doesnt works in powershell.
 3.Then go to file or folder and run it!!
 
 Enjoy!!!
+
+
+
+Release Notes Beta 1.2
+
+-Added some while loops for support
+-Added exiting 
+-Some Bugs and Errors fixed
